@@ -15,13 +15,6 @@ This is a Flutter e-commerce app that demonstrates the use of **Provider** for s
 
 ---
 
-## Screenshots
-
-| Home Screen | Product Details |
-|-------------|-----------------|
-| ![Home Screen](screenshots/home.png) | ![Product Details](screenshots/product_details.png) |
-
----
 
 ## Getting Started
 
@@ -73,7 +66,6 @@ dependencies:
     sdk: flutter
   provider: ^6.0.0
   go_router: ^6.0.0
-  flutter_launcher_icons: ^0.11.0
 ```
 
 Then run:
