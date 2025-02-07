@@ -1,0 +1,9 @@
+export 'package:flutter/material.dart';
+export 'package:product_app/routes/routes.dart';
+export 'package:product_app/models/product_model.dart';
+export 'package:provider/provider.dart';
+export 'package:product_app/providers/product_provider.dart';
+export 'package:go_router/go_router.dart';
+export 'package:product_app/utils/global_variables.dart';
+export 'package:product_app/views/screens.dart';
+export 'package:product_app/providers/auth_provider.dart';
